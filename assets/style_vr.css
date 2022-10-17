@@ -1,0 +1,71 @@
+.bi-bag-fill {
+  margin-left: 4px;
+  padding-bottom: 4px;
+  margin-top: 0;
+}
+.navbar-brand {
+  color: black;
+  font-weight: 850;
+}
+.btn {
+  background: #5222d0;
+  border-radius: 30px;
+}
+.main__area {
+  display: flex;
+  margin-left: 10vw;
+  height: 70vh;
+}
+.text_main__area {
+  width: 36vw;
+}
+.card_main__area {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.card-title {
+  font-weight: 700;
+  font-size: 4em;
+  font-family: Intro, sans-serif;
+}
+.card-text {
+  font-style: Roboto Slab;
+  font-size: 1.25em;
+  margin-bottom: 5vh;
+}
+.btn-bag-main {
+  width: 45%;
+  height: 9vh;
+  font-family: intro, sans-serif;
+  font-size: 2em;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.bi-credit-card-fill {
+  margin-left: 7px;
+  margin-bottom: 4px;
+}
+.imgs_main__area {
+  background: url(backgroundvr.png);
+  width: 50vw;
+}
+.img__guy {
+  height: 70vh;
+  margin-top: 10%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.footer {
+  margin-left: 10vw;
+  align-content: flex-end;
+  justify-content: flex-end;
+  margin-top: 4%;
+  font-size: 1.5em;
+}
+.nav-link {
+  color: #5222d0;
+  font-family: Roboto Slab;
+}

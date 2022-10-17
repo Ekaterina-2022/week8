@@ -1,0 +1,28 @@
+.header {
+  background: black;
+}
+.navbar-brand {
+  color: aliceblue;
+}
+.nav-link {
+  color: azure;
+}
+.maintext {
+  margin-top: 15px;
+}
+.mainblock {
+  height: 35vh;
+  background: #dbe3e3ac;
+}
+.titlewelcome {
+  margin-top: 40px;
+  font-size: 3em;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  height: 10vh;
+  color: aliceblue;
+}

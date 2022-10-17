@@ -1,0 +1,52 @@
+.bi-bag-fill {
+  margin-left: 4px;
+  padding-bottom: 4px;
+  margin-top: 0;
+}
+.navbar-brand {
+  color: black;
+  font-weight: 850;
+}
+.btn {
+  background: #5222d0;
+  border-radius: 30px;
+}
+.container-fluid-main {
+  margin-left: 6vw;
+  width: 90vw;
+  height: 80vh;
+}
+h1 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: Intro;
+  color: black;
+  margin-top: 4vh;
+}
+.img__feauters {
+  background: #ec615b;
+}
+.card_img__feauters {
+  height: 25vh;
+}
+.card {
+  width: 85%;
+}
+.card-title {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.card__news {
+  background: #ec615b;
+  color: aliceblue;
+}
+.footer {
+  margin-left: 6vw;
+  align-content: flex-end;
+  justify-content: flex-end;
+  font-size: 1.2em;
+}
+.nav-link {
+  color: black;
+  font-family: Roboto Slab;
+}
